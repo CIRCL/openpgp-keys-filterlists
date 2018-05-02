@@ -13,6 +13,8 @@ A list of trusted OpenPGP key fingerprints.
 
 A list of abused OpenPGP key fingerprints (e.g. such as fake keys, short key-id collision).
 
+- [blacklist](./lists/blacklist/fingerprint.json)
+
 ## Privacy list
 
 A list of OpenPGP key fingerprints where the owners requested a removal due to privacy reasons.
