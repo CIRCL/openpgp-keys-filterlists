@@ -1,0 +1,11 @@
+{
+  "name": "blacklist",
+  "version": 1,
+  "uuid": "9601c720-d4f3-4d88-89c8-e61134c15e59",
+  "description": "A list of abused OpenPGP key fingerprints (e.g. such as fake keys, short key-id collision).",
+  "type": "fingerprint",
+  "list": [
+    "A73FAA9CF3B7D3864C01BA38C32C7BF3",
+    "B4530375102C9EB270909C9C006694EB"
+  ]
+}
